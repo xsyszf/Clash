@@ -16,7 +16,7 @@ https://cdn.jsdelivr.net/gh/SCXSVIP/Clash@main/ACL4SSR_Online_Full_Ios.ini
 
 https://jihulab.com/xsvpn/Clash/-/raw/main/ACL4SSR_Online_Full_Ios.ini
 
-https://raw.githubusercontent.com/SCXSVIP/Clash/main/xskj.ini
+https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/Clash/main/xskj.ini
 
 https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/Clash/main/xskj.ini
 
@@ -31,13 +31,6 @@ clash verge rev: 	https://www.clashverge.dev/install.html
 clash meta for android: 	https://github.com/MetaCubeX/ClashMetaForAndroid
 
 karing: 	https://karing.app/download
-
-爱分享的marco-chormego节点
-
-base64订阅链接：	https://chromenodes.marcol.top/
-
-clash订阅链接：	https://chromegoclash.marcol.top/
-
 
 🚀公益机场免费节点-go4sharing-永久链接地址
 
@@ -137,3 +130,13 @@ https://github.com/aiboboxx
 https://g.3344550.xyz/https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 
 https://g.3344550.xyz/https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+
+🚀GH-ripaojiedian-freenode
+
+Clash订阅：https://g.3344550.xyz/https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+
+加速下载：https://raw.kkgithub.com/ripaojiedian/freenode/main/clash
+
+通用Base64/V2ray订阅：https://g.3344550.xyz/https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
+
+加速下载：https://raw.kkgithub.com/ripaojiedian/freenode/main/sub
