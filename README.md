@@ -36,7 +36,7 @@ karing: 	https://karing.app/download
 
 base64订阅链接：	https://chromenodes.marcol.top/
 
-clash订阅链接：		https://chromegoclash.marcol.top/
+clash订阅链接：	https://chromegoclash.marcol.top/
 
 
 🚀公益机场免费节点-go4sharing-永久链接地址
@@ -76,28 +76,35 @@ https://g.3344550.xyz/https://raw.githubusercontent.com/Pawdroid/Free-servers/ma
 
 🚀GH-Flikify-getNode-每1小时更新一次
 
-https://g.3344550.xyz/https://raw.githubusercontent.com/Flikify/getNode/main/v2ray.txt
+v2ray源地址：https://g.3344550.xyz/https://raw.githubusercontent.com/Flikify/getNode/main/v2ray.txt
+
+Clash源地址：https://g.3344550.xyz/https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml
 
 🚀GH-ts-sf-fly
 
-https://g.3344550.xyz/https://raw.githubusercontent.com/ts-sf/fly/main/v2
+v2ray地址：https://g.3344550.xyz/https://raw.githubusercontent.com/ts-sf/fly/main/v2
+
+Clash地址：https://g.3344550.xyz/https://raw.githubusercontent.com/ts-sf/fly/main/clash
 
 🚀GH-Epodonios-v2ray-configs
 
 https://github.com/Epodonios/v2ray-configs
 
-All_Configs_base64_Sub
-vless
-vmess
-ss
-ssr
-trojan
+Splited by protocol:
+
+https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/vless.txt
+
+https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/trojan.txt
+
+Splited in 500 count of configs:1-14
+
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub1.txt
 
 🚀GH-Epodonios-v2ray-configs-Trojan
 
 https://g.3344550.xyz/https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/trojan.txt
 
-🚀GH-Epodonios-v2ray-configs-Trojan
+🚀GH-Epodonios-v2ray-configs-Vmess
 
 https://g.3344550.xyz/https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vmess.txt
 
@@ -113,26 +120,20 @@ https://github.com/Barabama/FreeNodes
 
 🚀GH-free18-v2ray
 
-https://github.com/XSVPN/free18-v2ray/tree/main?tab=readme-ov-file
+https://github.com/free18/v2ray
 
-🚀V2ray订阅：	https://tt.vg/xBYek
+🚀通用订阅：https://g.3344550.xyz/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 
-🚀clash订阅(自建节点)：	https://suo.st/22Oq24b
+🚀Clash Meta订阅：https://g.3344550.xyz/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
 
-🚀GH-yebekhe-V2Hub
+🚀GH-yebekhe-vpn-fail
 
-https://g.3344550.xyz/https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged
+https://g.3344550.xyz/https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link
 
-https://g.3344550.xyz/https://raw.githubusercontent.com/yebekhe/V2Hub/main/Split/Base64/trojan
+🚀GH-aiboboxx-v2rayfree-clashfree
 
-🚀GH-aiboboxx-v2rayfree
+https://github.com/aiboboxx
 
-https://github.com/aiboboxx/v2rayfree
+https://g.3344550.xyz/https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-
-🚀GH-aiboboxx-clashfree
-
-https://github.com/aiboboxx/clashfree
-
-https://github.com/aiboboxx/clashfree/blob/main/clash.yml
+https://g.3344550.xyz/https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
