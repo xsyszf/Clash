@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,eycard.cn
 DOMAIN-SUFFIX,bhecard.com
+DOMAIN-SUFFIX,easypay.com.cn
 DOMAIN-SUFFIX,italent.cn
 DOMAIN-SUFFIX,ipcac.org.cn
 DOMAIN-SUFFIX,sdb.com.cn
@@ -18,6 +19,8 @@ DOMAIN-SUFFIX,unimarspay.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
+DOMAIN-KEYWORD,eycard
+DOMAIN-KEYWORD,bhecard
 DOMAIN-KEYWORD,easypay
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,xskj
@@ -589,4 +592,5 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
+
 DOMAIN-SUFFIX,zhuihd.com
